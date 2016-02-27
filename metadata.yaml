@@ -1,0 +1,68 @@
+_repo: A-Sentimental-Journey-Through-France-and-Italy_804
+creator:
+  author:
+    agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Sterne
+description: "A Sentimental Journey Through France and Italy is a novel by Laurence\
+  \ Sterne, written and first published in 1768, as Sterne was facing death. In 1765,\
+  \ Sterne travelled through France and Italy as far south as Naples, and after returning\
+  \ determined to describe his travels from a sentimental point of view. The novel\
+  \ can be seen as an epilogue to the possibly unfinished work The Life and Opinions\
+  \ of Tristram Shandy, Gentleman, and also as an answer to Tobias Smollett's decidedly\
+  \ unsentimental Travels through France and Italy. Sterne had met Smollett during\
+  \ his travels in Europe, and strongly objected to his spleen, acerbity and quarrelsomeness.\
+  \ He modeled the character of Smelfungus on him.\nThe novel was extremely popular\
+  \ and influential and helped establish travel writing as the dominant genre of the\
+  \ second half of the 18th century. Unlike prior travel accounts which stressed classical\
+  \ learning and objective non-personal points of view, A Sentimental Journey emphasized\
+  \ the subjective discussions of personal taste and sentiments, of manners and morals\
+  \ over classical learning. Throughout the 1770s female travel writers began publishing\
+  \ significant numbers of sentimental travel accounts. Sentiment also became a favorite\
+  \ style among those expressing non-mainstream views including political radicalism.\n\
+  The narrator is the Reverend Mr. Yorick, who is slyly represented to guileless readers\
+  \ as Sterne's barely disguised alter ego. The book recounts his various adventures,\
+  \ usually of the amorous type, in a series of self-contained episodes. The book\
+  \ is less eccentric and more elegant in style than Tristram Shandy and was better\
+  \ received by contemporary critics. It was published on 27 February, and on 18 March\
+  \ Sterne died.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Harvard Classics
+- Banned Books from Anne Haight's list
+- Best Books Ever Listings
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '804'
+  wikidata: Q768792
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Italy -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'British -- France -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'Humorous stories'
+title: A Sentimental Journey Through France and Italy
+url: http://www.gutenberg.org/ebooks/804
+wikipedia:
+- https://fr.wikipedia.org/wiki/Voyage_sentimental_%C3%A0_travers_la_France_et_l%27Italie
+- https://nl.wikipedia.org/wiki/A_Sentimental_Journey_Through_France_and_Italy
+- https://pl.wikipedia.org/wiki/Podr%C3%B3%C5%BC_sentymentalna_przez_Francj%C4%99_i_W%C5%82ochy
+- https://eu.wikipedia.org/wiki/Bidaia_sentimentala_Frantzian_eta_Italian_zehar
+- https://de.wikipedia.org/wiki/Yoricks_empfindsame_Reise_durch_Frankreich_und_Italien
+- https://es.wikipedia.org/wiki/Viaje_sentimental_por_Francia_e_Italia
+- https://hu.wikipedia.org/wiki/%C3%89rzelmes_utaz%C3%A1s_Francia-_%C3%A9s_Olaszorsz%C3%A1gban
+- https://en.wikipedia.org/wiki/A_Sentimental_Journey_Through_France_and_Italy
+- https://it.wikipedia.org/wiki/Viaggio_sentimentale
+- https://sv.wikipedia.org/wiki/En_sentimental_resa_genom_Frankrike_och_Italien
