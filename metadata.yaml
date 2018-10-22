@@ -1,5 +1,5 @@
 _repo: A-Sentimental-Journey-Through-France-and-Italy_804
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -59,6 +59,7 @@ subjects:
 - !lcsh 'Psychological fiction'
 - !lcsh 'Travelers -- Fiction'
 - !lcsh 'Humorous stories'
+- GITenberg
 title: A Sentimental Journey Through France and Italy
 url: http://www.gutenberg.org/ebooks/804
 wikipedia:

@@ -3,9 +3,9 @@ Italy, by Laurence Sterne, Edited by Henry Morley
 
 
 This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
+other parts of the world at no cost and with almost no restrictions
 whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
+the Project Gutenberg License included with this eBook or online at
 www.gutenberg.org.  If you are not located in the United States, you'll have
 to check the laws of the country where you are located before using this ebook.
 
@@ -2801,7 +2801,7 @@ times put me in condition to reclaim it.
 The president accepted the Marquis’s sword: he staid a few minutes to see
 it deposited in the archives of his house—and departed.
 
-The Marquis and his whole family embarked the next clay for Martinico,
+The Marquis and his whole family embarked the next day for Martinico,
 and in about nineteen or twenty years of successful application to
 business, with some unlook’d for bequests from distant branches of his
 house, return home to reclaim his nobility, and to support it.
@@ -4675,9 +4675,9 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
+www.gutenberg.org
 
-Section 3. Information about the Project Gutenberg Literary 
+Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
